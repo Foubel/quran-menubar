@@ -16,7 +16,7 @@ A minimal macOS menu‑bar app to listen to the Quran with multiple reciters. Th
 - **Smart resume**: remembers last surah and playback position.
 - **macOS integration**: media center controls, global hotkeys, light/dark adaptation.
 
-## Installation (for your friends)
+## Installation
 
 ### Option 1 — GitHub Releases (recommended)
 
