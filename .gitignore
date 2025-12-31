@@ -1,0 +1,8 @@
+.DS_Store
+
+# Xcode
+xcuserdata/
+DerivedData/
+
+# Audio assets (downloaded at runtime)
+QuranMenubar/Resources/Audio/

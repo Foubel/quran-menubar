@@ -1,0 +1,914 @@
+[
+  {
+    "number": 1,
+    "nameFr": "Al-Fatiha",
+    "nameAr": "الفاتحة",
+    "verses": 7,
+    "audioFile": "01-Al-Fatiha.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 2,
+    "nameFr": "Al-Baqara",
+    "nameAr": "البقرة",
+    "verses": 286,
+    "audioFile": "02-Al-Baqara.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 3,
+    "nameFr": "Al-Imran",
+    "nameAr": "آل عمران",
+    "verses": 200,
+    "audioFile": "03-Al-Imran.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 4,
+    "nameFr": "An-Nisa",
+    "nameAr": "النساء",
+    "verses": 176,
+    "audioFile": "04-An-Nisa.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 5,
+    "nameFr": "Al-Ma'idah",
+    "nameAr": "المائدة",
+    "verses": 120,
+    "audioFile": "05-Al-Ma'idah.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 6,
+    "nameFr": "Al-An'am",
+    "nameAr": "الأنعام",
+    "verses": 165,
+    "audioFile": "06-Al-An'am.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 7,
+    "nameFr": "Al-A'raf",
+    "nameAr": "الأعراف",
+    "verses": 206,
+    "audioFile": "07-Al-A'raf.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 8,
+    "nameFr": "Al-Anfal",
+    "nameAr": "الأنفال",
+    "verses": 75,
+    "audioFile": "08-Al-Anfal.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 9,
+    "nameFr": "At-Tawbah",
+    "nameAr": "التوبة",
+    "verses": 129,
+    "audioFile": "09-At-Tawbah.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 10,
+    "nameFr": "Yunus",
+    "nameAr": "يونس",
+    "verses": 109,
+    "audioFile": "10-Yunus.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 11,
+    "nameFr": "Hud",
+    "nameAr": "هود",
+    "verses": 123,
+    "audioFile": "11-Hud.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 12,
+    "nameFr": "Yusuf",
+    "nameAr": "يوسف",
+    "verses": 111,
+    "audioFile": "12-Yusuf.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 13,
+    "nameFr": "Ar-Ra'd",
+    "nameAr": "الرعد",
+    "verses": 43,
+    "audioFile": "13-Ar-Ra'd.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 14,
+    "nameFr": "Ibrahim",
+    "nameAr": "إبراهيم",
+    "verses": 52,
+    "audioFile": "14-Ibrahim.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 15,
+    "nameFr": "Al-Hijr",
+    "nameAr": "الحجر",
+    "verses": 99,
+    "audioFile": "15-Al-Hijr.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 16,
+    "nameFr": "An-Nahl",
+    "nameAr": "النحل",
+    "verses": 128,
+    "audioFile": "16-An-Nahl.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 17,
+    "nameFr": "Al-Isra",
+    "nameAr": "الإسراء",
+    "verses": 111,
+    "audioFile": "17-Al-Isra.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 18,
+    "nameFr": "Al-Kahf",
+    "nameAr": "الكهف",
+    "verses": 110,
+    "audioFile": "18-Al-Kahf.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 19,
+    "nameFr": "Maryam",
+    "nameAr": "مريم",
+    "verses": 98,
+    "audioFile": "19-Maryam.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 20,
+    "nameFr": "Ta-Ha",
+    "nameAr": "طه",
+    "verses": 135,
+    "audioFile": "20-Ta-Ha.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 21,
+    "nameFr": "Al-Anbiya",
+    "nameAr": "الأنبياء",
+    "verses": 112,
+    "audioFile": "21-Al-Anbiya.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 22,
+    "nameFr": "Al-Hajj",
+    "nameAr": "الحج",
+    "verses": 78,
+    "audioFile": "22-Al-Hajj.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 23,
+    "nameFr": "Al-Mu'minun",
+    "nameAr": "المؤمنون",
+    "verses": 118,
+    "audioFile": "23-Al-Mu'minun.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 24,
+    "nameFr": "An-Nur",
+    "nameAr": "النور",
+    "verses": 64,
+    "audioFile": "24-An-Nur.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 25,
+    "nameFr": "Al-Furqan",
+    "nameAr": "الفرقان",
+    "verses": 77,
+    "audioFile": "25-Al-Furqan.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 26,
+    "nameFr": "Ash-Shu'ara",
+    "nameAr": "الشعراء",
+    "verses": 227,
+    "audioFile": "26-Ash-Shu'ara.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 27,
+    "nameFr": "An-Naml",
+    "nameAr": "النمل",
+    "verses": 93,
+    "audioFile": "27-An-Naml.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 28,
+    "nameFr": "Al-Qasas",
+    "nameAr": "القصص",
+    "verses": 88,
+    "audioFile": "28-Al-Qasas.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 29,
+    "nameFr": "Al-Ankabut",
+    "nameAr": "العنكبوت",
+    "verses": 69,
+    "audioFile": "29-Al-Ankabut.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 30,
+    "nameFr": "Ar-Rum",
+    "nameAr": "الروم",
+    "verses": 60,
+    "audioFile": "30-Ar-Rum.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 31,
+    "nameFr": "Luqman",
+    "nameAr": "لقمان",
+    "verses": 34,
+    "audioFile": "31-Luqman.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 32,
+    "nameFr": "As-Sajdah",
+    "nameAr": "السجدة",
+    "verses": 30,
+    "audioFile": "32-As-Sajdah.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 33,
+    "nameFr": "Al-Ahzab",
+    "nameAr": "الأحزاب",
+    "verses": 73,
+    "audioFile": "33-Al-Ahzab.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 34,
+    "nameFr": "Saba",
+    "nameAr": "سبأ",
+    "verses": 54,
+    "audioFile": "34-Saba.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 35,
+    "nameFr": "Fatir",
+    "nameAr": "فاطر",
+    "verses": 45,
+    "audioFile": "35-Fatir.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 36,
+    "nameFr": "Ya-Sin",
+    "nameAr": "يس",
+    "verses": 83,
+    "audioFile": "36-Ya-Sin.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 37,
+    "nameFr": "As-Saffat",
+    "nameAr": "الصافات",
+    "verses": 182,
+    "audioFile": "37-As-Saffat.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 38,
+    "nameFr": "Sad",
+    "nameAr": "ص",
+    "verses": 88,
+    "audioFile": "38-Sad.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 39,
+    "nameFr": "Az-Zumar",
+    "nameAr": "الزمر",
+    "verses": 75,
+    "audioFile": "39-Az-Zumar.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 40,
+    "nameFr": "Ghafir",
+    "nameAr": "غافر",
+    "verses": 85,
+    "audioFile": "40-Ghafir.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 41,
+    "nameFr": "Fussilat",
+    "nameAr": "فصلت",
+    "verses": 54,
+    "audioFile": "41-Fussilat.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 42,
+    "nameFr": "Ash-Shura",
+    "nameAr": "الشورى",
+    "verses": 53,
+    "audioFile": "42-Ash-Shura.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 43,
+    "nameFr": "Az-Zukhruf",
+    "nameAr": "الزخرف",
+    "verses": 89,
+    "audioFile": "43-Az-Zukhruf.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 44,
+    "nameFr": "Ad-Dukhan",
+    "nameAr": "الدخان",
+    "verses": 59,
+    "audioFile": "44-Ad-Dukhan.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 45,
+    "nameFr": "Al-Jathiyah",
+    "nameAr": "الجاثية",
+    "verses": 37,
+    "audioFile": "45-Al-Jathiyah.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 46,
+    "nameFr": "Al-Ahqaf",
+    "nameAr": "الأحقاف",
+    "verses": 35,
+    "audioFile": "46-Al-Ahqaf.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 47,
+    "nameFr": "Muhammad",
+    "nameAr": "محمد",
+    "verses": 38,
+    "audioFile": "47-Muhammad.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 48,
+    "nameFr": "Al-Fath",
+    "nameAr": "الفتح",
+    "verses": 29,
+    "audioFile": "48-Al-Fath.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 49,
+    "nameFr": "Al-Hujurat",
+    "nameAr": "الحجرات",
+    "verses": 18,
+    "audioFile": "49-Al-Hujurat.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 50,
+    "nameFr": "Qaf",
+    "nameAr": "ق",
+    "verses": 45,
+    "audioFile": "50-Qaf.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 51,
+    "nameFr": "Adh-Dhariyat",
+    "nameAr": "الذاريات",
+    "verses": 60,
+    "audioFile": "51-Adh-Dhariyat.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 52,
+    "nameFr": "At-Tur",
+    "nameAr": "الطور",
+    "verses": 49,
+    "audioFile": "52-At-Tur.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 53,
+    "nameFr": "An-Najm",
+    "nameAr": "النجم",
+    "verses": 62,
+    "audioFile": "53-An-Najm.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 54,
+    "nameFr": "Al-Qamar",
+    "nameAr": "القمر",
+    "verses": 55,
+    "audioFile": "54-Al-Qamar.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 55,
+    "nameFr": "Ar-Rahman",
+    "nameAr": "الرحمن",
+    "verses": 78,
+    "audioFile": "55-Ar-Rahman.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 56,
+    "nameFr": "Al-Waqi'ah",
+    "nameAr": "الواقعة",
+    "verses": 96,
+    "audioFile": "56-Al-Waqi'ah.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 57,
+    "nameFr": "Al-Hadid",
+    "nameAr": "الحديد",
+    "verses": 29,
+    "audioFile": "57-Al-Hadid.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 58,
+    "nameFr": "Al-Mujadila",
+    "nameAr": "المجادلة",
+    "verses": 22,
+    "audioFile": "58-Al-Mujadila.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 59,
+    "nameFr": "Al-Hashr",
+    "nameAr": "الحشر",
+    "verses": 24,
+    "audioFile": "59-Al-Hashr.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 60,
+    "nameFr": "Al-Mumtahanah",
+    "nameAr": "الممتحنة",
+    "verses": 13,
+    "audioFile": "60-Al-Mumtahanah.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 61,
+    "nameFr": "As-Saff",
+    "nameAr": "الصف",
+    "verses": 14,
+    "audioFile": "61-As-Saff.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 62,
+    "nameFr": "Al-Jumu'ah",
+    "nameAr": "الجمعة",
+    "verses": 11,
+    "audioFile": "62-Al-Jumu'ah.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 63,
+    "nameFr": "Al-Munafiqun",
+    "nameAr": "المنافقون",
+    "verses": 11,
+    "audioFile": "63-Al-Munafiqun.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 64,
+    "nameFr": "At-Taghabun",
+    "nameAr": "التغابن",
+    "verses": 18,
+    "audioFile": "64-At-Taghabun.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 65,
+    "nameFr": "At-Talaq",
+    "nameAr": "الطلاق",
+    "verses": 12,
+    "audioFile": "65-At-Talaq.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 66,
+    "nameFr": "At-Tahrim",
+    "nameAr": "التحريم",
+    "verses": 12,
+    "audioFile": "66-At-Tahrim.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 67,
+    "nameFr": "Al-Mulk",
+    "nameAr": "الملك",
+    "verses": 30,
+    "audioFile": "67-Al-Mulk.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 68,
+    "nameFr": "Al-Qalam",
+    "nameAr": "القلم",
+    "verses": 52,
+    "audioFile": "68-Al-Qalam.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 69,
+    "nameFr": "Al-Haqqah",
+    "nameAr": "الحاقة",
+    "verses": 52,
+    "audioFile": "69-Al-Haqqah.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 70,
+    "nameFr": "Al-Ma'arij",
+    "nameAr": "المعارج",
+    "verses": 44,
+    "audioFile": "70-Al-Ma'arij.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 71,
+    "nameFr": "Nuh",
+    "nameAr": "نوح",
+    "verses": 28,
+    "audioFile": "71-Nuh.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 72,
+    "nameFr": "Al-Jinn",
+    "nameAr": "الجن",
+    "verses": 28,
+    "audioFile": "72-Al-Jinn.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 73,
+    "nameFr": "Al-Muzzammil",
+    "nameAr": "المزمل",
+    "verses": 20,
+    "audioFile": "73-Al-Muzzammil.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 74,
+    "nameFr": "Al-Muddathir",
+    "nameAr": "المدثر",
+    "verses": 56,
+    "audioFile": "74-Al-Muddathir.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 75,
+    "nameFr": "Al-Qiyamah",
+    "nameAr": "القيامة",
+    "verses": 40,
+    "audioFile": "75-Al-Qiyamah.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 76,
+    "nameFr": "Al-Insan",
+    "nameAr": "الإنسان",
+    "verses": 31,
+    "audioFile": "76-Al-Insan.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 77,
+    "nameFr": "Al-Mursalat",
+    "nameAr": "المرسلات",
+    "verses": 50,
+    "audioFile": "77-Al-Mursalat.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 78,
+    "nameFr": "An-Naba",
+    "nameAr": "النبأ",
+    "verses": 40,
+    "audioFile": "78-An-Naba.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 79,
+    "nameFr": "An-Nazi'at",
+    "nameAr": "النازعات",
+    "verses": 46,
+    "audioFile": "79-An-Nazi'at.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 80,
+    "nameFr": "Abasa",
+    "nameAr": "عبس",
+    "verses": 42,
+    "audioFile": "80-Abasa.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 81,
+    "nameFr": "At-Takwir",
+    "nameAr": "التكوير",
+    "verses": 29,
+    "audioFile": "81-At-Takwir.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 82,
+    "nameFr": "Al-Infitar",
+    "nameAr": "الانفطار",
+    "verses": 19,
+    "audioFile": "82-Al-Infitar.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 83,
+    "nameFr": "Al-Mutaffifin",
+    "nameAr": "المطففين",
+    "verses": 36,
+    "audioFile": "83-Al-Mutaffifin.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 84,
+    "nameFr": "Al-Inshiqaq",
+    "nameAr": "الانشقاق",
+    "verses": 25,
+    "audioFile": "84-Al-Inshiqaq.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 85,
+    "nameFr": "Al-Buruj",
+    "nameAr": "البروج",
+    "verses": 22,
+    "audioFile": "85-Al-Buruj.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 86,
+    "nameFr": "At-Tariq",
+    "nameAr": "الطارق",
+    "verses": 17,
+    "audioFile": "86-At-Tariq.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 87,
+    "nameFr": "Al-A'la",
+    "nameAr": "الأعلى",
+    "verses": 19,
+    "audioFile": "87-Al-A'la.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 88,
+    "nameFr": "Al-Ghashiyah",
+    "nameAr": "الغاشية",
+    "verses": 26,
+    "audioFile": "88-Al-Ghashiyah.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 89,
+    "nameFr": "Al-Fajr",
+    "nameAr": "الفجر",
+    "verses": 30,
+    "audioFile": "89-Al-Fajr.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 90,
+    "nameFr": "Al-Balad",
+    "nameAr": "البلد",
+    "verses": 20,
+    "audioFile": "90-Al-Balad.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 91,
+    "nameFr": "Ash-Shams",
+    "nameAr": "الشمس",
+    "verses": 15,
+    "audioFile": "91-Ash-Shams.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 92,
+    "nameFr": "Al-Layl",
+    "nameAr": "الليل",
+    "verses": 21,
+    "audioFile": "92-Al-Layl.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 93,
+    "nameFr": "Ad-Duha",
+    "nameAr": "الضحى",
+    "verses": 11,
+    "audioFile": "93-Ad-Duha.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 94,
+    "nameFr": "Ash-Sharh",
+    "nameAr": "الشرح",
+    "verses": 8,
+    "audioFile": "94-Ash-Sharh.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 95,
+    "nameFr": "At-Tin",
+    "nameAr": "التين",
+    "verses": 8,
+    "audioFile": "95-At-Tin.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 96,
+    "nameFr": "Al-Alaq",
+    "nameAr": "العلق",
+    "verses": 19,
+    "audioFile": "96-Al-Alaq.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 97,
+    "nameFr": "Al-Qadr",
+    "nameAr": "القدر",
+    "verses": 5,
+    "audioFile": "97-Al-Qadr.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 98,
+    "nameFr": "Al-Bayyinah",
+    "nameAr": "البينة",
+    "verses": 8,
+    "audioFile": "98-Al-Bayyinah.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 99,
+    "nameFr": "Az-Zalzalah",
+    "nameAr": "الزلزلة",
+    "verses": 8,
+    "audioFile": "99-Az-Zalzalah.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 100,
+    "nameFr": "Al-Adiyat",
+    "nameAr": "العاديات",
+    "verses": 11,
+    "audioFile": "100-Al-Adiyat.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 101,
+    "nameFr": "Al-Qari'ah",
+    "nameAr": "القارعة",
+    "verses": 11,
+    "audioFile": "101-Al-Qari'ah.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 102,
+    "nameFr": "At-Takathur",
+    "nameAr": "التكاثر",
+    "verses": 8,
+    "audioFile": "102-At-Takathur.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 103,
+    "nameFr": "Al-Asr",
+    "nameAr": "العصر",
+    "verses": 3,
+    "audioFile": "103-Al-Asr.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 104,
+    "nameFr": "Al-Humazah",
+    "nameAr": "الهمزة",
+    "verses": 9,
+    "audioFile": "104-Al-Humazah.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 105,
+    "nameFr": "Al-Fil",
+    "nameAr": "الفيل",
+    "verses": 5,
+    "audioFile": "105-Al-Fil.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 106,
+    "nameFr": "Quraysh",
+    "nameAr": "قريش",
+    "verses": 4,
+    "audioFile": "106-Quraysh.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 107,
+    "nameFr": "Al-Ma'un",
+    "nameAr": "الماعون",
+    "verses": 7,
+    "audioFile": "107-Al-Ma'un.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 108,
+    "nameFr": "Al-Kawthar",
+    "nameAr": "الكوثر",
+    "verses": 3,
+    "audioFile": "108-Al-Kawthar.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 109,
+    "nameFr": "Al-Kafirun",
+    "nameAr": "الكافرون",
+    "verses": 6,
+    "audioFile": "109-Al-Kafirun.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 110,
+    "nameFr": "An-Nasr",
+    "nameAr": "النصر",
+    "verses": 3,
+    "audioFile": "110-An-Nasr.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 111,
+    "nameFr": "Al-Masad",
+    "nameAr": "المسد",
+    "verses": 5,
+    "audioFile": "111-Al-Masad.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 112,
+    "nameFr": "Al-Ikhlas",
+    "nameAr": "الإخلاص",
+    "verses": 4,
+    "audioFile": "112-Al-Ikhlas.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 113,
+    "nameFr": "Al-Falaq",
+    "nameAr": "الفلق",
+    "verses": 5,
+    "audioFile": "113-Al-Falaq.mp3",
+    "durationSeconds": null
+  },
+  {
+    "number": 114,
+    "nameFr": "An-Nas",
+    "nameAr": "الناس",
+    "verses": 6,
+    "audioFile": "114-An-Nas.mp3",
+    "durationSeconds": null
+  }
+]
