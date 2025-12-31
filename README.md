@@ -29,7 +29,7 @@ A minimal macOS menu‑bar app to listen to the Quran with multiple reciters. Th
 
 ### Option 2 — Build from source
 
-1. Open `QuranMenubar/` in Xcode.
+1. Open `QuranMenubar.xcodeproj` in Xcode.
 2. Select the **QuranMenubar** target (macOS 13+).
 3. Build & Run (`⌘R`).
 
@@ -60,13 +60,22 @@ A minimal macOS menu‑bar app to listen to the Quran with multiple reciters. Th
 ## Project structure
 
 ```
-QuranMenubar/
-├── Info.plist
-├── Sources/
-│   ├── Assets.xcassets/
-│   ├── MenuController.swift
-│   ├── QuranMenubarApp.swift
-│   ├── QuranPlayer.swift
-│   └── SurahList.json
-└── SPECIFICATIONS.md
+.
+├── README.md
+├── QuranMenubar.xcodeproj/
+├── QuranMenubar/
+│   ├── Info.plist
+│   └── Sources/
+│       ├── Assets.xcassets/
+│       ├── MenuController.swift
+│       ├── QuranMenubarApp.swift
+│       ├── QuranPlayer.swift
+│       ├── SurahList.json
+│       ├── SurahSearch.swift
+│       └── SurahSelectionLogic.swift
+├── QuranMenubarTests/
+│   ├── SurahSearchTests.swift
+│   └── SurahSelectionLogicTests.swift
+└── scripts/
+    └── download_surahs.py
 ```
